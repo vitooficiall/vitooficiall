@@ -7,7 +7,7 @@
 
 
 <details>
-  <summary markdown="span"> 🇧🇷 Um pouco sobre mim </summary>
+  <summary align="center"> 🇧🇷 Um pouco sobre mim </summary>
   
   <br>😁 Eu sou focado em seguraça ofensiva e desenvolvimento web.
   
@@ -15,26 +15,19 @@
   - 🐛 Procurar bugs (pesquisador de segurança)
   - 🧑‍💻 Desenvolver algumas coisas
   - ⚽️ Praticar Esportes
-
+  <h1>
 </details>
-
 <details>
-  <summary markdown="span">🇺🇸 A little about me </summary>
-  
+  <summary align="center"> 🇺🇸 A little about me </summary>
   <br>😁 I'm focused on offensive security and development web.
   
-  🔸 My hobbies are:
+  <br>🔸 My hobbies are:
   - 🐛 Bug hunter (researcher security)
   - 🧑‍💻 Development of some things
   - ⚽️ Play sports 
 
 </details>
-<p align="center">
-  <a href="https://github.com/vitooficiall">
-     <img style="max-width: 100%;" width="400em" heigth="180em"  src="https://github-readme-stats.vercel.app/api?username=vitooficiall&amp;show_icons=true&amp;&amp;include_all_commits=true&amp;count_private=true&theme=merko&title_color=ff641a&bg_color=0d1117&text_color=f8f8f2&icon_color=8be9fd&hide_border=false&border_color=30363d" />
-      <img style="max-width: 100%;" width="400em" heigth="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitooficiall&amp;layout=compact&amp;langs_count=7&amp;theme=merko&title_color=ff641a&bg_color=0d1117&text_color=f8f8f2&icon_color=8be9fd&hide_border=false&border_color=30363d" />
-  </a>
-</p>
+
 <h1></h1>
 <div>
   <a href="https://github.com/vitooficiall">
@@ -50,9 +43,5 @@
     </p>
   </a>
   
-  <h4 align="center"> 🇺🇸 Developer skill | 🇧🇷 Habilidades de Desenvolvedor </h4>
+  <h3 align="center"> 🇺🇸 Developer skill | 🇧🇷 Habilidades de Desenvolvedor </h4>
 </div>
-
-
-<h2></h2>
-<h4>🇺🇸 Bug Hunter Skills and reported bugs | 🇧🇷 Habilidades de caçador de Bugs e falhas reportadas</h4>
