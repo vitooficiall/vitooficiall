@@ -3,28 +3,27 @@
   <img src="https://github.com/vitooficiall/vitooficiall/raw/main/pkg/icons/banner.svg" style="max-width: 100%;" />
 </a>
 
-
 <h1 align="center">Hello there 👋 </h1>
 <details>
-  <summary align="center">🇧🇷 | 🇺🇸</summary>
+  <summary align="center">🇧🇷 | 🇺🇸 </summary>
   <br>
-  <table>
+  <table align="center">
     <td align="center">🇧🇷 Um pouco sobre mim</td>
-    <td align="center">🇺🇸 A little about me </td>
+    <td align="center">🇺🇸 A little about me</td>
     <tr></tr>
     <td>
       😁 Eu sou focado em seguraça ofensiva e desenvolvimento web.<br>
-      <br>🔸 Meus hobbies são:
-      <br>- 🐛 Procurar bugs (pesquisador de segurança)
-      <br>- 🧑‍💻 Desenvolver algumas coisas
-      <br>- ⚽️ Praticar Esportes
+      <br>Meus hobbies são:
+      <li>🐛 Procurar bugs (pesquisador de segurança)</li>
+      <li>🧑‍💻 Desenvolver algumas coisas</li> 
+      <li>⚽️ Praticar Esportes</li>
     </td>
     <td>
       😁 I'm focused on offensive security and development web.<br>
-      <br>🔸 My hobbies are:
-      <br>- 🐛 Bug hunter (researcher security)
-      <br>- 🧑‍💻 Development of some things
-      <br>- ⚽️ Play sports 
+      <br>My hobbies are:
+      <li>🐛 Bug hunter (researcher security)</li>
+      <li>🧑‍💻 Development of some things</li>
+      <li>⚽️ Play sports</li>
     </td>
   </table>
 </details>
