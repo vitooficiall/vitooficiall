@@ -8,7 +8,7 @@
 <details>
   <summary align="center">🇧🇷 | 🇺🇸</summary>
   <br>
-  <table align="center">
+  <table>
     <td align="center">🇧🇷 Um pouco sobre mim</td>
     <td align="center">🇺🇸 A little about me </td>
     <tr></tr>
