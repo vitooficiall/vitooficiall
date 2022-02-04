@@ -4,9 +4,9 @@
 </a>
 
 
-
+<h1 align="center">Hello there 👋 </h1>
 <details>
-  <summary align="center"><h2>Hello there 👋 </h2></summary>
+  <summary align="center">🇧🇷 | 🇺🇸</summary>
   <br>
   <table align="center">
     <td align="center">🇧🇷 Um pouco sobre mim</td>
@@ -28,7 +28,7 @@
     </td>
   </table>
 </details>
-
+<h1></h1>
 <div>
   <a href="https://github.com/vitooficiall">
     <p align="center">
