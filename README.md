@@ -3,14 +3,14 @@
   <img src="https://github.com/vitooficiall/vitooficiall/raw/main/pkg/icons/banner.svg" style="max-width: 100%;" />
 </a>
 
-<h1 align="center">Hello there 👋 </h1>
+
 
 <details>
-  <summary align="center"> Um pouco sobre mim | A little about me </summary>
-  
+  <summary align="center"><h2>Hello there 👋 </h2></summary>
+  <br>
   <table align="center">
-    <td align="center">🇧🇷 Português</td>
-    <td align="center">🇺🇸 English</td>
+    <td align="center">🇧🇷 Um pouco sobre mim</td>
+    <td align="center">🇺🇸 A little about me </td>
     <tr></tr>
     <td>
       😁 Eu sou focado em seguraça ofensiva e desenvolvimento web.<br>
@@ -27,10 +27,8 @@
       <br>- ⚽️ Play sports 
     </td>
   </table>
-  <h1>
 </details>
 
-<h1></h1>
 <div>
   <a href="https://github.com/vitooficiall">
     <p align="center">
