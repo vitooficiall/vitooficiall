@@ -39,6 +39,7 @@
        <img src="https://github.com/devicons/devicon/raw/master/icons/go/go-original-wordmark.svg"  height="50rem"/>
        <img src="https://github.com/devicons/devicon/raw/master/icons/wordpress/wordpress-original.svg"  height="50rem"/>
        <img src="https://github.com/devicons/devicon/raw/master/icons/bootstrap/bootstrap-original.svg" height="50rem"/>  
+      <img src="https://github.com/devicons/devicon/raw/master/icons/docker/docker-original.svg" height="70rem"/> 
     </p>
   </a>
   
